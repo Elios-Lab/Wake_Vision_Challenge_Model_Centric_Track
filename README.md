@@ -12,7 +12,7 @@ For any question or issue, please send an email at my [institutional address](ma
 ---
 
 ## **Model Architecture**
-<div style="text-align:center">
+<div style="width:100%">
     <img src="img/model_arch.svg" style="width=30%; background: transparent; margin-left: auto; margin-right: auto; padding: 10px;">
 </div>
 
