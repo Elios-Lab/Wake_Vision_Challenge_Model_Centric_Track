@@ -1,6 +1,7 @@
 # **Wake Vision Challenge 2025 Submission - Model-Centric Track**
-
-![alt text](/img/model_arch.png)
+<div style="display: flex; justify-content: flex-end;">
+    <img src="/img/model_arch.png" alt="Model Architecture" style="width: 50%;">
+</div>
 
 The full implementation of the method for finding the proposed model architecture can be found in [uNAS Elios Repository](https://github.com/Elios-Lab/uNAS). In this forked repository you will find:
 
