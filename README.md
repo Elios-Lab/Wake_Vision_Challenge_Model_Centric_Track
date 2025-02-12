@@ -13,8 +13,10 @@ For any question or issue, please send an email at my [institutional address](ma
 
 ## **Model Architecture**
 <div style="text-align:center">
-    <img src="/img/model_arch.png" style="width=50%; background:transparent;">
+    <img src="img/model_arch.svg" style="width=30%; background:transparent;">
 </div>
+
+---
 ---
 
 # 🚀 **Model-Centric Track**
