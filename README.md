@@ -2,12 +2,7 @@
 
 | Description | Model Architecture |
 |------------|------------------|
-| The full implementation of the method for finding the proposed model architecture can be found in [uNAS Elios Repository](https://github.com/Elios-Lab/uNAS). In this forked repository you will find:
-- The '.tflite' file corresponding to the submitted model
-- `train.py` - Script used to resume the training phase of the found model
-- `test.py`- Slightly modified version of the original evaluation file to accomodate linear uint8 output of our model
-- A brief tecnical report (`wv_report.pdf`)
-For any question or issue, please send an email at my [institutional address](mailto:alessandro.pighetti@edu.unige.it) | <img src="/img/model_arch.png" width="50%; background: transparent;"> |
+| test | <img src="/img/model_arch.png" width="50%; background: transparent;"> |
 
 ---
 ---
