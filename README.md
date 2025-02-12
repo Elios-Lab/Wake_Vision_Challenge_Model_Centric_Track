@@ -2,7 +2,8 @@
 
 The full implementation of the method for finding the proposed model architecture can be found in [uNAS Elios Repository](https://github.com/Elios-Lab/uNAS). In this forked repository you will find:
 
-- The '.tflite' file corresponding to the submitted model
+- The `.tflite` file corresponding to the submitted model (quantized)
+- The `.h5` file corresponding to the model found by uNAS, before quantization
 - `train.py` - Script used to resume the training phase of the found model
 - `test.py`- Slightly modified version of the original evaluation file to accomodate linear uint8 output of our model
 - A brief tecnical report (`wv_report.pdf`)
