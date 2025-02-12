@@ -9,9 +9,9 @@ The full implementation of the method for finding the proposed model architectur
 
 For any question or issue, please send an email at my [institutional address](mailto:alessandro.pighetti@edu.unige.it)
 
-<div style="text-align: right;">
-    <img src="/img/model_arch.png" alt="Model Architecture" width="30%">
-</div>
+| Description | Model Architecture |
+|------------|------------------|
+| The method used for finding the proposed model architecture and other details can be found above. | <img src="/img/model_arch.png" width="30%"> |
 
 ---
 ---
