@@ -1,5 +1,7 @@
 # **Wake Vision Challenge 2025 Submission - Model-Centric Track**
 
+**DISCLAIMER:** Please use the provided `test.py` script for model evaluation - the output of the model is linear uint8 and has to be converted properly
+
 The full implementation of the method for finding the proposed model architecture can be found in [uNAS Elios Repository](https://github.com/Elios-Lab/uNAS). In this forked repository you will find:
 
 - The `.tflite` file corresponding to the submitted model (quantized)
